@@ -1,2 +1,4 @@
 # natours
-natours application created during udemy course
+Natours landing page creating during Udemy course. 
+
+Tools used include HTML and SASS
