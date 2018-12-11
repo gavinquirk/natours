@@ -32,3 +32,9 @@ body {
   }
 
 }
+
+// Text Selection
+::selection {
+  background-color: $color-primary;
+  color: $color-white;
+}
